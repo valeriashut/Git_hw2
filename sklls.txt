@@ -1,0 +1,3 @@
+auto theories, git, JS, TS, ui automation with selenium (webdriverIO) and playwright,
+API automation (wdio, mocha, axios, playwright, chai), cucumber + wdio, plus framework architecture,
+reporting and sia integration
